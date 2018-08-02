@@ -8,3 +8,15 @@ Template: twentysixteen
 */
  @import url(../twentysixteen/style.css);
  
+ .sitebranding .site-title a{
+ 	color: #71a2c3
+ }
+ .sitebranding .site-title a:hover {
+ 	color: gray;
+ }
+ .site-description {
+ 	font-size: 1.2rem;
+ }
+ .site {
+ 	background-color: #a723a9
+ }
